@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/canonical/cos-tool/commit/3cbc09cb483d56bfd4083c95c8548964a028996a",
       "git:hexsha": "3cbc09cb483d56bfd4083c95c8548964a028996a",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "rel-20261001"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "rel-20261001",
+      "repolex:parsedAt": "2026-11-08T16:07:47.715874+00:00"
     },
     {
       "@id": "https://repolex.ai/r/canonical/cos-tool/commit/d312011a4e889620e3d424e18d29a1edb7a032a2",
