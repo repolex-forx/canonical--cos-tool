@@ -1,0 +1,11 @@
+{
+  "org": "canonical",
+  "repo": "cos-tool",
+  "versions": [
+    {
+      "commit": "3cbc09cb483d56bfd4083c95c8548964a028996a",
+      "tag": "rel-20261001",
+      "parsed_at": "2026-11-08T16:07:47.804377+00:00"
+    }
+  ]
+}
